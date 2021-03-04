@@ -1,0 +1,3 @@
+include ':customtoastlibrary'
+include ':app'
+rootProject.name = "AndroidToastSample"
